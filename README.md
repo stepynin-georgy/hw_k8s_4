@@ -249,6 +249,7 @@ Commercial support is available at
 
 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
+[task-1-deployment.yaml](https://github.com/stepynin-georgy/hw_k8s_4/blob/main/task-1-deployment.yaml)
 ------
 
 ### Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера

@@ -250,6 +250,11 @@ Commercial support is available at
 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
 [task-1-deployment.yaml](https://github.com/stepynin-georgy/hw_k8s_4/blob/main/task-1-deployment.yaml)
+
+[task-1-pod.yaml](https://github.com/stepynin-georgy/hw_k8s_4/blob/main/task-1-pod.yaml)
+
+[task-1-svc.yaml](https://github.com/stepynin-georgy/hw_k8s_4/blob/main/task-1-svc.yaml)
+
 ------
 
 ### Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера
@@ -318,6 +323,12 @@ WBITT Network MultiTool (with NGINX) - hw-4-745df74468-jtrn8 - 10.1.77.8 - HTTP:
 ```
 
 3. Предоставить манифест и Service в решении, а также скриншоты или вывод команды п.2.
+
+![image](https://github.com/stepynin-georgy/hw_k8s_4/blob/main/img/Screenshot_142.png)
+
+![image](https://github.com/stepynin-georgy/hw_k8s_4/blob/main/img/Screenshot_143.png)
+
+[task-2-svc.yaml](https://github.com/stepynin-georgy/hw_k8s_4/blob/main/task-2-svc.yaml)
 
 ------
 
